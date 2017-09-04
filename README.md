@@ -12,7 +12,7 @@ buy.py
   the 50 day moving average algorithm.
 
 quantopian.py
-  # MUST BE RUN ON QUANTOPIAN.COM
+  MUST BE RUN ON QUANTOPIAN.COM
   A program to be run on quantopian.com, which is a futures backtester utilizing the 50 day moving average algorithm.
 
 maStats.xlsx
