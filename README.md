@@ -11,9 +11,13 @@ buy.py
   A program which simulates trading of securities utilizing
   the 50 day moving average algorithm.
 
-quantopian.py
+FQuantopian.py
   MUST BE RUN ON QUANTOPIAN.COM
   A program to be run on quantopian.com, which is a futures backtester utilizing the 50 day moving average algorithm.
+
+SQuantopian.py
+  MUST BE RUN ON QUANTOPIAN.COM
+  A program to be run on quantopian.com, which is a stocks backtester utilizing the 50 day moving average algorithm.  
 
 maStats.xlsx
   Trade logs and backtest results from 50 Day Moving Average Algorithm.
